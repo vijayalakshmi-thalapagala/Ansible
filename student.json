@@ -1,7 +1,7 @@
 {
     "students": [
         {
-            "firstName": "vijaya Lakshmi",
+            "firstName": "Vijaya Reddy",
             "dob": "2000-04-10",
         
             "addresses": [ 
@@ -21,7 +21,7 @@
             "skills": ["python", "devops", "cloud"]
         },
         {
-            "firstName": "vijaya Reddy",
+            "firstName": "Vijaya lakshmi",
             "dob": "1999-04-10",
         
             "addresses": [ 
