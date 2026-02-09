@@ -2,8 +2,8 @@
 <Students>
     <student>
         <FirstName>Vijaya Reddy</FirstName>
-        <DOB>1999-01-01</DOB>
-        <Email>info@joindevops.com</Email>
+        <DOB>2000-04-10</DOB>
+        <Email>vijayalakshmithalapagala@gmail.com</Email>
         <!-- <Address>104 gandhi apartments hyderabad</Address> -->
         <!-- <Address>
             <FlatNumber>104</FlatNumber>
@@ -12,22 +12,22 @@
         </Address> -->
         <Addresses>
             <PermAddress>
-                <FlatNumber>104</FlatNumber>
-                <Street>Gandhi Nagar</Street>
-                <City>Hyderabad</City>
+                <FlatNumber>102</FlatNumber>
+                <Street>Navyug society</Street>
+                <City>pune</City>
             </PermAddress>
             <CurrentAddress>
-                <FlatNumber>104</FlatNumber>
-                <Street>Gandhi Nagar</Street>
-                <City>Hyderabad</City>
+                <FlatNumber>102</FlatNumber>
+                <Street>Navyug society</Street>
+                <City>pune</City>
             </CurrentAddress>
         </Addresses>
     </student>
 
     <student>
         <FirstName>vijaya lakshmi</FirstName>
-        <DOB>1999-01-01</DOB>
-        <Email>info@joindevops.com</Email>
+        <DOB>1999-04-10</DOB>
+        <Email>vijayareddytalapagala@gmail.com</Email>
         <!-- <Address>104 gandhi apartments hyderabad</Address> -->
         <!-- <Address>
             <FlatNumber>104</FlatNumber>
@@ -36,14 +36,14 @@
         </Address> -->
         <Addresses>
             <PermAddress>
-                <FlatNumber>104</FlatNumber>
-                <Street>Gandhi Nagar</Street>
-                <City>Hyderabad</City>
+                <FlatNumber>89</FlatNumber>
+                <Street>tadipatri</Street>
+                <City>anantapur</City>
             </PermAddress>
             <CurrentAddress>
-                <FlatNumber>104</FlatNumber>
-                <Street>Gandhi Nagar</Street>
-                <City>Hyderabad</City>
+                <FlatNumber>89</FlatNumber>
+                <Street>tadipatri</Street>
+                <City>anantapur</City>
             </CurrentAddress>
         </Addresses>
     </student>
