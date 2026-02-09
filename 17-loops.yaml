@@ -1,9 +1,10 @@
 - name: install packages
   hosts: local
   connection: local
+  become: yes
   tasks:
   - name: install package
-    ansible.builtin.debug:
+    ansible.builtin.package:
       name: "{{ item }}"
       state: present
     loop:
