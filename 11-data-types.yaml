@@ -12,10 +12,10 @@
     - Linux
     - Shell
     - Ansible
-  tasks:
+  asks:
   - name: print variables
     ansible.builtin.debug:
-      msg: 
+      msg: |
         Program: {{ PROGRAM }}
         Duration: {{ DURATION }}
         Is Live?: {{ IS_LIVE }}
