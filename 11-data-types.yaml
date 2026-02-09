@@ -2,13 +2,13 @@
   hosts: local
   connection: local
   vars:
-    PROGRAM: "DevSecOps with AWS" # string
-    DURATION: 140 # int/number
+    PROGRAM: "DevSecOps with AWS" #string
+    DURATION: 140 # INT/number
     IS_LIVE: true # bool
-    DETAILS: # map/dictionary {}
+    DETAILS: #MAP/DICT
       MONTHS: 4
-      TRAINER: "Sivakumar Reddy"
-    TOPICS: # list -/[]
+      TARINER: "Sivakumar Reddy"
+    TOPICS:  # list -/[]
     - Linux
     - Shell
     - Ansible
@@ -21,3 +21,5 @@
         Is Live?: {{ IS_LIVE }}
         Details: {{ DETAILS }}
         Topics: {{ TOPICS }}
+
+
