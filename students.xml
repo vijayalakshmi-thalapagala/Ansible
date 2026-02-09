@@ -1,7 +1,7 @@
 <!-- Student Object -->
 <Students>
     <student>
-        <FirstName>Ramesh</FirstName>
+        <FirstName>Vijaya</FirstName>
         <DOB>1999-01-01</DOB>
         <Email>info@joindevops.com</Email>
         <!-- <Address>104 gandhi apartments hyderabad</Address> -->
@@ -25,7 +25,7 @@
     </student>
 
     <student>
-        <FirstName>Suresh</FirstName>
+        <FirstName>lakshmi</FirstName>
         <DOB>1999-01-01</DOB>
         <Email>info@joindevops.com</Email>
         <!-- <Address>104 gandhi apartments hyderabad</Address> -->
