@@ -7,12 +7,12 @@
     IS_LIVE: true # bool
     DETAILS: #MAP/DICT
       MONTHS: 4
-      TARINER: "Sivakumar Reddy"
+      TRAINER: "Sivakumar Reddy"
     TOPICS:  # list -/[]
     - Linux
     - Shell
     - Ansible
-  asks:
+  tasks:
   - name: print variables
     ansible.builtin.debug:
       msg: |
