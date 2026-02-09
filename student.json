@@ -1,0 +1,44 @@
+{
+    "students": [
+        {
+            "firstName": "vijaya Lakshmi",
+            "dob": "2000-04-10",
+        
+            "addresses": [ 
+                {
+                    "type": "perm",
+                    "flatNumber": 102,
+                    "street": "navyug society",
+                    "city": "pune"
+                },
+                {
+                    "type": "perm",
+                    "flatNumber": 102,
+                    "street": "navyug society",
+                    "city": "pune"
+                }
+            ],
+            "skills": ["python", "devops", "cloud"]
+        },
+        {
+            "firstName": "vijaya Reddy",
+            "dob": "1999-04-10",
+        
+            "addresses": [ 
+                {
+                    "type": "perm",
+                    "flatNumber": 89,
+                    "street": "tadipatri",
+                    "city": "anantapur"
+                },
+                {
+                    "type": "perm",
+                    "flatNumber": 89,
+                    "street": "tadipatri",
+                    "city": "anantapur"
+                }
+            ],
+            "skills": ["python", "devops", "cloud"]
+        }
+    ]
+}

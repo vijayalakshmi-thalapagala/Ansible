@@ -1,0 +1,27 @@
+- name: "Vijaya Reddy"
+  dob: "2000-04-10"
+  mobileNumber: 9876543210
+  addresses: 
+  - flatnumber: 102
+    street: "navgug society"
+    city: pune
+    type: current
+
+  - flatnumber: 102
+    street: "navgug society"
+    city: pune
+    typr: perm
+
+- name: "Vijaya lakshmi"
+  dob: "1999-04-10"
+  mobileNumber: 9753186420
+  addresses: 
+  - flatnumber: 89
+    street: "tadipatri"
+    city: anantapur
+    type: current
+
+  - flatnumber: 89
+    street: "tadipatri"
+    city: anantapur
+    type: perm
