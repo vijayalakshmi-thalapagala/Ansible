@@ -9,3 +9,11 @@
     - Vijju
     - Lucky
     - reddy
+  tasks:
+  - name: name print
+    ansible.builtin.debug:
+      msg: "Hi {{ item }}"
+    loop:
+    - vijjamma
+    - bujjamma
+    - vijaya
