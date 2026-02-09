@@ -39,7 +39,7 @@
       msg: "{{ tagsList | items2dict }}"
 
   - name: read students yaml
-    ansible.builtin.debug:
+    ansible.builtin.set_fact:
       student_yaml: "{{ lookup('file', 'students.yaml' ) | from_yaml }}"
   
   - name: convert YAML to JSON
